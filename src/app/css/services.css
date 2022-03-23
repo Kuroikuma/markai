@@ -2,6 +2,7 @@
   height: auto;
   width: 100%;
   padding-top: 60px;
+  padding-bottom: 60px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -72,11 +73,10 @@
   color: #fff;
 }
 .services__item__info__wrap button {
-  position: relative;
   display: flex;
   height: 15%;
   width: 35%;
-
+  position: relative;
   justify-content: center;
   align-items: center;
   border: 3px solid transparent;
