@@ -6,6 +6,7 @@ import { Feature } from './components/feature'
 import { Video } from './components/video'
 import { Services } from './components/services'
 import { Card } from './components/card'
+import { Customer } from './components/customer'
 
 export function App() {
   return (
@@ -16,6 +17,7 @@ export function App() {
       <Video />
       <Services />
       <Card />
+      <Customer />
     </div>
   )
 }
