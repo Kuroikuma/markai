@@ -4,6 +4,7 @@ import React from 'react'
 import { Robot } from './components/robot'
 import { Feature } from './components/feature'
 import { Video } from './components/video'
+import { Services } from './components/services'
 
 export function App() {
   return (
@@ -12,6 +13,7 @@ export function App() {
       <Robot />
       <Feature />
       <Video />
+      <Services />
     </div>
   )
 }
