@@ -7,6 +7,7 @@ import { Video } from './components/video'
 import { Services } from './components/services'
 import { Card } from './components/card'
 import { Customer } from './components/customer'
+import { Contact } from './components/contact'
 
 export function App() {
   return (
@@ -18,6 +19,7 @@ export function App() {
       <Services />
       <Card />
       <Customer />
+      <Contact />
     </div>
   )
 }
