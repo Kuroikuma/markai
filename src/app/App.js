@@ -8,6 +8,7 @@ import { Services } from './components/services'
 import { Card } from './components/card'
 import { Customer } from './components/customer'
 import { Contact } from './components/contact'
+import { Footer } from './components/footer'
 
 export function App() {
   return (
@@ -20,6 +21,7 @@ export function App() {
       <Card />
       <Customer />
       <Contact />
+      <Footer />
     </div>
   )
 }
