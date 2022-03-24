@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/markai/static/css/main.2fd00104.css",
+    "main.js": "/markai/static/js/main.a8506ca0.js",
+    "static/media/unsplash.png": "/markai/static/media/unsplash.0f656964ec160365912b.png",
+    "static/media/Group.png": "/markai/static/media/Group.ffea4c8c6af062b81214.png",
+    "static/media/rafiki.png": "/markai/static/media/rafiki.13b8442dd0950bd45686.png",
+    "static/media/customui.png": "/markai/static/media/customui.90e4712242af8f306f88.png",
+    "static/media/play.png": "/markai/static/media/play.3fa2507594acde1e046f.png",
+    "index.html": "/markai/index.html",
+    "main.2fd00104.css.map": "/markai/static/css/main.2fd00104.css.map",
+    "main.a8506ca0.js.map": "/markai/static/js/main.a8506ca0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd00104.css",
+    "static/js/main.a8506ca0.js"
+  ]
+}
